@@ -27,7 +27,7 @@ A classic arcade Flappy Bird game built from scratch using **HTML, CSS, and Java
 If you want to download and modify the code on your own computer:
 1. Clone this repository:
    ```bash
-   git clone https://github.com[your-username]/[your-repo-name].git
+   git clone https://github.com/js-projects-code/Flappy-Bird.git
    ```
 2. Open the project folder and double-click `index.html` to launch it in any web browser.
 
